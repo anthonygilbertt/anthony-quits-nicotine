@@ -157,7 +157,7 @@
                 >cdc.gov</a
               >
               |
-              <a href="https://github.com/anthonygilbertt" target="blank"
+              <a href="https://github.com/anthonygilbertt/anthony-quits-nicotine" target="blank"
                 >GitHub</a
               ></small
             >
